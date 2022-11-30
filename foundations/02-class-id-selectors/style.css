@@ -1,0 +1,22 @@
+.class {
+    color: #000;
+    background-color: #ffb0b0;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif"
+}
+
+.egg{
+    font-size: 24px;
+}
+
+#num2{
+    color: #00F;
+    background-color: #fff;
+    font-size: 36px;
+}
+
+#num4{
+color: #000;
+background-color: #0F0;
+font-weight: bold;
+}
+
